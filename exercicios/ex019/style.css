@@ -1,0 +1,55 @@
+@charset "UTF-8";
+/*
+
+tudo em html é id em css é #*
+tudo em html é class em cdss é . */
+
+/*
+
+
+*/
+body{
+    background-color: #B2BCAA;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: #64403E;
+}
+
+h1#principal{
+    text-align: center;
+    background-color: #6C6061;
+   
+}
+
+h2{
+    color: #6C6061;
+}
+
+.basico{
+    color: coral;
+
+}
+
+.intermediario{
+    color: darkcyan;
+
+}
+
+.avancado{
+    color: darkgoldenrod;
+
+}
+
+.destaque{
+background-color: darkorange;
+
+}
+
+.two {
+    border-radius: 20px;
+    border-color: coral;
+    border-radius: 30px;
+    border-top: 80px;
+}

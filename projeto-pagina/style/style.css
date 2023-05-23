@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+.header{
+    background-color: #58cc2a;
+    width: auto;
+    height: 200px;
+}
+
+.nav{
+    background-color: #ddbea9;
+    width: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.logo{
+    width: 300px;
+    height: 150px;
+    margin-left: 20px;
+        background-color: aqua;
+    
+}
+
+#menu {
+    list-style: none;
+    background-color: cornflowerblue;
+}
+
+#menu li{
+    background-color: violet;
+}
+
+#menu a{
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+.main{
+    background-color: #a9ddb4;
+    width: auto;
+    height: 200px;
+}
+
+.footpage{
+    background-color: black;
+    width: auto;
+    height: 200px;
+}
+
+
+
+
